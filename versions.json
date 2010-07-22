@@ -1,7 +1,14 @@
 {
-  "latest": "a1.0.5_01",
-  "generated": "2026-07-25T00:06:48.940Z",
+  "latest": "a1.0.11",
+  "generated": "2026-07-25T00:06:54.636Z",
   "versions": [
+    {
+      "id": "a1.0.11",
+      "type": "old_alpha",
+      "previous": "a1.0.5_01",
+      "generated": "2026-07-25T00:06:54.636Z",
+      "releaseTime": "2010-07-22T22:00:00+00:00"
+    },
     {
       "id": "a1.0.5_01",
       "type": "old_alpha",

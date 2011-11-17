@@ -1,7 +1,14 @@
 {
-  "latest": "b1.8.1",
-  "generated": "2026-07-25T00:12:13.863Z",
+  "latest": "1.0",
+  "generated": "2026-07-25T00:12:21.180Z",
   "versions": [
+    {
+      "id": "1.0",
+      "type": "release",
+      "previous": "b1.8.1",
+      "generated": "2026-07-25T00:12:21.180Z",
+      "releaseTime": "2011-11-17T22:00:00+00:00"
+    },
     {
       "id": "b1.8.1",
       "type": "old_beta",

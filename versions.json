@@ -1,7 +1,14 @@
 {
-  "latest": "13w24a",
-  "generated": "2026-07-25T00:16:34.829Z",
+  "latest": "13w24b",
+  "generated": "2026-07-25T00:16:43.831Z",
   "versions": [
+    {
+      "id": "13w24b",
+      "type": "snapshot",
+      "previous": "13w24a",
+      "generated": "2026-07-25T00:16:43.831Z",
+      "releaseTime": "2013-06-14T12:19:13+00:00"
+    },
     {
       "id": "13w24a",
       "type": "snapshot",

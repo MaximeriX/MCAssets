@@ -1,12 +1,19 @@
 {
   "latest": "1.6.3",
-  "generated": "2026-07-25T00:18:13.707Z",
+  "generated": "2026-07-25T00:18:22.572Z",
   "versions": [
     {
       "id": "1.6.3",
       "type": "snapshot",
-      "previous": "13w37a",
+      "previous": "13w37b",
       "generated": "2026-07-25T00:18:13.703Z",
+      "releaseTime": "2013-09-13T10:54:41+00:00"
+    },
+    {
+      "id": "13w37b",
+      "type": "snapshot",
+      "previous": "13w37a",
+      "generated": "2026-07-25T00:18:22.572Z",
       "releaseTime": "2013-09-13T10:54:41+00:00"
     },
     {

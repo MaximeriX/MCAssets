@@ -1,7 +1,14 @@
 {
-  "latest": "14w34d",
-  "generated": "2026-07-25T00:31:03.066Z",
+  "latest": "1.8-pre1",
+  "generated": "2026-07-25T00:31:11.805Z",
   "versions": [
+    {
+      "id": "1.8-pre1",
+      "type": "snapshot",
+      "previous": "14w34d",
+      "generated": "2026-07-25T00:31:11.805Z",
+      "releaseTime": "2014-08-21T13:56:26+00:00"
+    },
     {
       "id": "14w34d",
       "type": "snapshot",

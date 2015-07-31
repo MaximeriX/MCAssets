@@ -1,7 +1,14 @@
 {
-  "latest": "15w31b",
-  "generated": "2026-07-25T00:35:08.132Z",
+  "latest": "15w31c",
+  "generated": "2026-07-25T00:35:17.424Z",
   "versions": [
+    {
+      "id": "15w31c",
+      "type": "snapshot",
+      "previous": "15w31b",
+      "generated": "2026-07-25T00:35:17.424Z",
+      "releaseTime": "2015-07-31T13:45:08+00:00"
+    },
     {
       "id": "15w31b",
       "type": "snapshot",

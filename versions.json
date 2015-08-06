@@ -1,7 +1,14 @@
 {
-  "latest": "15w32a",
-  "generated": "2026-07-25T00:35:26.686Z",
+  "latest": "15w32b",
+  "generated": "2026-07-25T00:35:36.723Z",
   "versions": [
+    {
+      "id": "15w32b",
+      "type": "snapshot",
+      "previous": "15w32a",
+      "generated": "2026-07-25T00:35:36.723Z",
+      "releaseTime": "2015-08-06T13:51:47+00:00"
+    },
     {
       "id": "15w32a",
       "type": "snapshot",

@@ -1,7 +1,14 @@
 {
-  "latest": "1.10.2",
-  "generated": "2026-07-25T00:50:12.316Z",
+  "latest": "16w32a",
+  "generated": "2026-07-25T00:50:22.079Z",
   "versions": [
+    {
+      "id": "16w32a",
+      "type": "snapshot",
+      "previous": "1.10.2",
+      "generated": "2026-07-25T00:50:22.079Z",
+      "releaseTime": "2016-08-10T12:30:10+00:00"
+    },
     {
       "id": "1.10.2",
       "type": "release",

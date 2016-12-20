@@ -1,7 +1,14 @@
 {
-  "latest": "16w50a",
-  "generated": "2026-07-25T00:53:04.775Z",
+  "latest": "1.11.1",
+  "generated": "2026-07-25T00:53:13.983Z",
   "versions": [
+    {
+      "id": "1.11.1",
+      "type": "release",
+      "previous": "16w50a",
+      "generated": "2026-07-25T00:53:13.983Z",
+      "releaseTime": "2016-12-20T14:05:34+00:00"
+    },
     {
       "id": "16w50a",
       "type": "snapshot",

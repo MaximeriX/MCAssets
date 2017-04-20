@@ -1,7 +1,14 @@
 {
-  "latest": "17w15a",
-  "generated": "2026-07-25T00:54:13.681Z",
+  "latest": "17w16a",
+  "generated": "2026-07-25T00:54:24.011Z",
   "versions": [
+    {
+      "id": "17w16a",
+      "type": "snapshot",
+      "previous": "17w15a",
+      "generated": "2026-07-25T00:54:24.011Z",
+      "releaseTime": "2017-04-20T13:58:35+00:00"
+    },
     {
       "id": "17w15a",
       "type": "snapshot",

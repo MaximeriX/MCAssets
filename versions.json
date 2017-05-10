@@ -1,7 +1,14 @@
 {
-  "latest": "17w18b",
-  "generated": "2026-07-25T00:55:13.196Z",
+  "latest": "1.12-pre1",
+  "generated": "2026-07-25T00:55:23.627Z",
   "versions": [
+    {
+      "id": "1.12-pre1",
+      "type": "snapshot",
+      "previous": "17w18b",
+      "generated": "2026-07-25T00:55:23.627Z",
+      "releaseTime": "2017-05-10T11:37:17+00:00"
+    },
     {
       "id": "17w18b",
       "type": "snapshot",

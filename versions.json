@@ -1,7 +1,14 @@
 {
-  "latest": "17w31a",
-  "generated": "2026-07-25T00:56:37.932Z",
+  "latest": "1.12.1-pre1",
+  "generated": "2026-07-25T00:56:48.281Z",
   "versions": [
+    {
+      "id": "1.12.1-pre1",
+      "type": "snapshot",
+      "previous": "17w31a",
+      "generated": "2026-07-25T00:56:48.279Z",
+      "releaseTime": "2017-08-02T10:53:55+00:00"
+    },
     {
       "id": "17w31a",
       "type": "snapshot",

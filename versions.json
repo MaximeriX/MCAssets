@@ -1,7 +1,14 @@
 {
-  "latest": "1.12.1",
-  "generated": "2026-07-25T00:56:57.138Z",
+  "latest": "1.12.2-pre1",
+  "generated": "2026-07-25T00:57:07.826Z",
   "versions": [
+    {
+      "id": "1.12.2-pre1",
+      "type": "snapshot",
+      "previous": "1.12.1",
+      "generated": "2026-07-25T00:57:07.826Z",
+      "releaseTime": "2017-09-13T13:33:31+00:00"
+    },
     {
       "id": "1.12.1",
       "type": "release",

@@ -1,7 +1,14 @@
 {
-  "latest": "18w33a",
-  "generated": "2026-07-25T01:07:55.470Z",
+  "latest": "1.13.1-pre1",
+  "generated": "2026-07-25T01:08:07.585Z",
   "versions": [
+    {
+      "id": "1.13.1-pre1",
+      "type": "snapshot",
+      "previous": "18w33a",
+      "generated": "2026-07-25T01:08:07.585Z",
+      "releaseTime": "2018-08-16T13:08:44+00:00"
+    },
     {
       "id": "18w33a",
       "type": "snapshot",

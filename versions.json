@@ -1,7 +1,14 @@
 {
-  "latest": "18w50a",
-  "generated": "2026-07-25T01:11:33.989Z",
+  "latest": "19w02a",
+  "generated": "2026-07-25T01:11:45.144Z",
   "versions": [
+    {
+      "id": "19w02a",
+      "type": "snapshot",
+      "previous": "18w50a",
+      "generated": "2026-07-25T01:11:45.144Z",
+      "releaseTime": "2019-01-09T15:52:07+00:00"
+    },
     {
       "id": "18w50a",
       "type": "snapshot",

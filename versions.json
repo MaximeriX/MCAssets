@@ -1,7 +1,14 @@
 {
-  "latest": "19w13b",
-  "generated": "2026-07-25T01:14:57.387Z",
+  "latest": "3D_Shareware_v1.34",
+  "generated": "2026-07-25T01:15:16.407Z",
   "versions": [
+    {
+      "id": "3D_Shareware_v1.34",
+      "type": "snapshot",
+      "previous": "19w13b",
+      "generated": "2026-07-25T01:15:16.407Z",
+      "releaseTime": "2019-04-01T11:18:08+00:00"
+    },
     {
       "id": "19w13b",
       "type": "snapshot",

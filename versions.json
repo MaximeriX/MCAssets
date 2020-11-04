@@ -1,7 +1,14 @@
 {
-  "latest": "1.16.4",
-  "generated": "2026-07-25T01:38:00.230Z",
+  "latest": "20w45a",
+  "generated": "2026-07-25T01:38:24.001Z",
   "versions": [
+    {
+      "id": "20w45a",
+      "type": "snapshot",
+      "previous": "1.16.4",
+      "generated": "2026-07-25T01:38:24.001Z",
+      "releaseTime": "2020-11-04T16:42:00+00:00"
+    },
     {
       "id": "1.16.4",
       "type": "release",

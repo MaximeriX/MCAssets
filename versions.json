@@ -1,7 +1,14 @@
 {
-  "latest": "20w46a",
-  "generated": "2026-07-25T01:38:37.851Z",
+  "latest": "20w48a",
+  "generated": "2026-07-25T01:38:51.651Z",
   "versions": [
+    {
+      "id": "20w48a",
+      "type": "snapshot",
+      "previous": "20w46a",
+      "generated": "2026-07-25T01:38:51.651Z",
+      "releaseTime": "2020-11-25T15:42:24+00:00"
+    },
     {
       "id": "20w46a",
       "type": "snapshot",

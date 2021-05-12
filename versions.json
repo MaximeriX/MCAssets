@@ -1,7 +1,14 @@
 {
-  "latest": "21w18a",
-  "generated": "2026-07-25T01:43:27.205Z",
+  "latest": "21w19a",
+  "generated": "2026-07-25T01:43:40.971Z",
   "versions": [
+    {
+      "id": "21w19a",
+      "type": "snapshot",
+      "previous": "21w18a",
+      "generated": "2026-07-25T01:43:40.970Z",
+      "releaseTime": "2021-05-12T11:19:15+00:00"
+    },
     {
       "id": "21w18a",
       "type": "snapshot",

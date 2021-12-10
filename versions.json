@@ -1,7 +1,14 @@
 {
-  "latest": "1.18.1-rc3",
-  "generated": "2026-07-25T01:54:19.798Z",
+  "latest": "1.18.1",
+  "generated": "2026-07-25T01:54:34.875Z",
   "versions": [
+    {
+      "id": "1.18.1",
+      "type": "release",
+      "previous": "1.18.1-rc3",
+      "generated": "2026-07-25T01:54:34.875Z",
+      "releaseTime": "2021-12-10T08:23:00+00:00"
+    },
     {
       "id": "1.18.1-rc3",
       "type": "snapshot",

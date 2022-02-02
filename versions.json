@@ -1,7 +1,14 @@
 {
-  "latest": "22w03a",
-  "generated": "2026-07-25T01:54:49.800Z",
+  "latest": "22w05a",
+  "generated": "2026-07-25T01:55:04.894Z",
   "versions": [
+    {
+      "id": "22w05a",
+      "type": "snapshot",
+      "previous": "22w03a",
+      "generated": "2026-07-25T01:55:04.894Z",
+      "releaseTime": "2022-02-02T16:08:39+00:00"
+    },
     {
       "id": "22w03a",
       "type": "snapshot",

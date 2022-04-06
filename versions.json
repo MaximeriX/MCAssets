@@ -1,7 +1,14 @@
 {
-  "latest": "22w13oneblockatatime",
-  "generated": "2026-07-25T01:58:19.844Z",
+  "latest": "22w14a",
+  "generated": "2026-07-25T01:58:36.492Z",
   "versions": [
+    {
+      "id": "22w14a",
+      "type": "snapshot",
+      "previous": "22w13oneblockatatime",
+      "generated": "2026-07-25T01:58:36.490Z",
+      "releaseTime": "2022-04-06T13:37:12+00:00"
+    },
     {
       "id": "22w13oneblockatatime",
       "type": "snapshot",

@@ -1,7 +1,14 @@
 {
-  "latest": "1.19-pre5",
-  "generated": "2026-07-25T02:01:40.218Z",
+  "latest": "1.19-rc1",
+  "generated": "2026-07-25T02:01:56.419Z",
   "versions": [
+    {
+      "id": "1.19-rc1",
+      "type": "snapshot",
+      "previous": "1.19-pre5",
+      "generated": "2026-07-25T02:01:56.419Z",
+      "releaseTime": "2022-06-02T12:12:52+00:00"
+    },
     {
       "id": "1.19-pre5",
       "type": "snapshot",

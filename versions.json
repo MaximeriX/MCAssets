@@ -1,7 +1,14 @@
 {
-  "latest": "22w43a",
-  "generated": "2026-07-25T02:07:01.712Z",
+  "latest": "22w44a",
+  "generated": "2026-07-25T02:07:21.888Z",
   "versions": [
+    {
+      "id": "22w44a",
+      "type": "snapshot",
+      "previous": "22w43a",
+      "generated": "2026-07-25T02:07:21.887Z",
+      "releaseTime": "2022-11-02T13:15:43+00:00"
+    },
     {
       "id": "22w43a",
       "type": "snapshot",

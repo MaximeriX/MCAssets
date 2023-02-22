@@ -1,7 +1,14 @@
 {
-  "latest": "23w07a",
-  "generated": "2026-07-25T02:11:21.748Z",
+  "latest": "1.19.4-pre1",
+  "generated": "2026-07-25T02:11:39.703Z",
   "versions": [
+    {
+      "id": "1.19.4-pre1",
+      "type": "snapshot",
+      "previous": "23w07a",
+      "generated": "2026-07-25T02:11:39.703Z",
+      "releaseTime": "2023-02-22T16:00:34+00:00"
+    },
     {
       "id": "23w07a",
       "type": "snapshot",

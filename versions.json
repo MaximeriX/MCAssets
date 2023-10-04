@@ -1,7 +1,14 @@
 {
-  "latest": "1.20.2",
-  "generated": "2026-07-25T02:22:25.359Z",
+  "latest": "23w40a",
+  "generated": "2026-07-25T02:22:45.877Z",
   "versions": [
+    {
+      "id": "23w40a",
+      "type": "snapshot",
+      "previous": "1.20.2",
+      "generated": "2026-07-25T02:22:45.877Z",
+      "releaseTime": "2023-10-04T12:48:53+00:00"
+    },
     {
       "id": "1.20.2",
       "type": "release",

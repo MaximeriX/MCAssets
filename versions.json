@@ -1,7 +1,14 @@
 {
-  "latest": "24w14potato",
-  "generated": "2026-07-25T02:31:55.680Z",
+  "latest": "24w14a",
+  "generated": "2026-07-25T02:32:14.498Z",
   "versions": [
+    {
+      "id": "24w14a",
+      "type": "snapshot",
+      "previous": "24w14potato",
+      "generated": "2026-07-25T02:32:14.497Z",
+      "releaseTime": "2024-04-03T11:49:39+00:00"
+    },
     {
       "id": "24w14potato",
       "type": "snapshot",

@@ -1,7 +1,14 @@
 {
-  "latest": "24w21b",
-  "generated": "2026-07-25T02:37:58.666Z",
+  "latest": "1.21-pre1",
+  "generated": "2026-07-25T02:38:23.037Z",
   "versions": [
+    {
+      "id": "1.21-pre1",
+      "type": "snapshot",
+      "previous": "24w21b",
+      "generated": "2026-07-25T02:38:23.037Z",
+      "releaseTime": "2024-05-29T12:04:43+00:00"
+    },
     {
       "id": "24w21b",
       "type": "snapshot",

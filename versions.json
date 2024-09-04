@@ -1,7 +1,14 @@
 {
-  "latest": "24w35a",
-  "generated": "2026-07-25T02:41:38.740Z",
+  "latest": "24w36a",
+  "generated": "2026-07-25T02:43:10.300Z",
   "versions": [
+    {
+      "id": "24w36a",
+      "type": "snapshot",
+      "previous": "24w35a",
+      "generated": "2026-07-25T02:43:10.300Z",
+      "releaseTime": "2024-09-04T12:44:12+00:00"
+    },
     {
       "id": "24w35a",
       "type": "snapshot",

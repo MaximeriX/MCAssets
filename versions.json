@@ -1,7 +1,14 @@
 {
-  "latest": "24w40a",
-  "generated": "2026-07-25T02:44:23.302Z",
+  "latest": "1.21.2-pre1",
+  "generated": "2026-07-25T02:44:40.130Z",
   "versions": [
+    {
+      "id": "1.21.2-pre1",
+      "type": "snapshot",
+      "previous": "24w40a",
+      "generated": "2026-07-25T02:44:40.128Z",
+      "releaseTime": "2024-10-08T13:22:12+00:00"
+    },
     {
       "id": "24w40a",
       "type": "snapshot",

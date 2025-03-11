@@ -1,7 +1,14 @@
 {
-  "latest": "25w10a",
-  "generated": "2026-07-25T02:52:56.369Z",
+  "latest": "1.21.5-pre1",
+  "generated": "2026-07-25T02:53:13.918Z",
   "versions": [
+    {
+      "id": "1.21.5-pre1",
+      "type": "snapshot",
+      "previous": "25w10a",
+      "generated": "2026-07-25T02:53:13.917Z",
+      "releaseTime": "2025-03-11T12:49:44+00:00"
+    },
     {
       "id": "25w10a",
       "type": "snapshot",

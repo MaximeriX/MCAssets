@@ -1,7 +1,14 @@
 {
-  "latest": "25w14craftmine",
-  "generated": "2026-07-25T02:55:01.461Z",
+  "latest": "25w15a",
+  "generated": "2026-07-25T02:55:23.444Z",
   "versions": [
+    {
+      "id": "25w15a",
+      "type": "snapshot",
+      "previous": "25w14craftmine",
+      "generated": "2026-07-25T02:55:23.444Z",
+      "releaseTime": "2025-04-08T12:16:59+00:00"
+    },
     {
       "id": "25w14craftmine",
       "type": "snapshot",

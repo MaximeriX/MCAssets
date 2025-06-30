@@ -1,7 +1,14 @@
 {
-  "latest": "1.21.7-rc2",
-  "generated": "2026-07-25T02:59:30.890Z",
+  "latest": "1.21.7",
+  "generated": "2026-07-25T02:59:47.885Z",
   "versions": [
+    {
+      "id": "1.21.7",
+      "type": "release",
+      "previous": "1.21.7-rc2",
+      "generated": "2026-07-25T02:59:47.884Z",
+      "releaseTime": "2025-06-30T09:32:16+00:00"
+    },
     {
       "id": "1.21.7-rc2",
       "type": "snapshot",

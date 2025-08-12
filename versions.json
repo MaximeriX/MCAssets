@@ -1,7 +1,14 @@
 {
-  "latest": "25w32a",
-  "generated": "2026-07-25T03:00:57.322Z",
+  "latest": "25w33a",
+  "generated": "2026-07-25T03:01:14.305Z",
   "versions": [
+    {
+      "id": "25w33a",
+      "type": "snapshot",
+      "previous": "25w32a",
+      "generated": "2026-07-25T03:01:14.305Z",
+      "releaseTime": "2025-08-12T11:45:24+00:00"
+    },
     {
       "id": "25w32a",
       "type": "snapshot",

@@ -1,7 +1,14 @@
 {
-  "latest": "26.1-snapshot-1",
-  "generated": "2026-07-25T03:10:07.565Z",
+  "latest": "26.1-snapshot-2",
+  "generated": "2026-07-25T03:10:28.203Z",
   "versions": [
+    {
+      "id": "26.1-snapshot-2",
+      "type": "snapshot",
+      "previous": "26.1-snapshot-1",
+      "generated": "2026-07-25T03:10:28.203Z",
+      "releaseTime": "2026-01-07T12:38:03+00:00"
+    },
     {
       "id": "26.1-snapshot-1",
       "type": "snapshot",

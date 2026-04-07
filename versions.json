@@ -1,7 +1,14 @@
 {
-  "latest": "26w14a",
-  "generated": "2026-07-25T03:16:20.201Z",
+  "latest": "26.2-snapshot-1",
+  "generated": "2026-07-25T03:16:45.962Z",
   "versions": [
+    {
+      "id": "26.2-snapshot-1",
+      "type": "snapshot",
+      "previous": "26w14a",
+      "generated": "2026-07-25T03:16:45.961Z",
+      "releaseTime": "2026-04-07T11:52:43+00:00"
+    },
     {
       "id": "26w14a",
       "type": "snapshot",

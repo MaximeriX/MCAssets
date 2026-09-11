@@ -1,7 +1,14 @@
 {
   "latest": "26.2",
-  "generated": "2026-09-10T14:07:58.746Z",
+  "generated": "2026-09-11T12:34:22.341Z",
   "versions": [
+    {
+      "id": "26.3-rc-2",
+      "type": "snapshot",
+      "previous": "26.3-rc-1",
+      "generated": "2026-09-11T12:34:22.340Z",
+      "releaseTime": "2026-09-11T10:34:40+00:00"
+    },
     {
       "id": "26.3-rc-1",
       "type": "snapshot",
